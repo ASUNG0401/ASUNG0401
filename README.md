@@ -4,4 +4,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dskim0722)](https://solved.ac/dskim0722/) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASUNG0401&show_icons=true&theme=tokyonight)
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
