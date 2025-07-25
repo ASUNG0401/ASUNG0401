@@ -7,8 +7,8 @@
 
 ## About Me
 
-백엔드 개발자를 목표로 다양한 분야에 도전하고 있습니다.  
-웹, 알고리즘, 게임 개발 등 여러 기술을 직접 다뤄보며 실력을 확장하고 있습니다.
+Aspiring backend developer with a strong interest in web development, algorithms, and game programming.  
+Always exploring new technologies and building practical projects through hands-on experience.
 
 ---
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### Language
+### Language  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -24,19 +24,19 @@
 
 <br/>
 
-### Frontend
+### Frontend  
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 <br/>
 
-### Backend
+### Backend  
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <br/>
 
-### Tools & Etc.
+### Tools & Etc.  
 <img src="https://img.shields.io/badge/UnrealEngine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -47,10 +47,10 @@
 
 ## Interests
 
-- 웹 개발: Node.js, Express, MongoDB 기반 RESTful API  
-- 문제 해결: 알고리즘과 자료구조에 관심  
-- 게임 개발: 언리얼 엔진을 활용한 인터랙티브 콘텐츠 제작  
-- 클린 코드와 설계 패턴에 관심
+- Building RESTful APIs using Node.js, Express, and MongoDB  
+- Problem solving through algorithms and data structures  
+- Creating interactive content with Unreal Engine  
+- Writing clean, maintainable, and scalable code
 
 ---
 
