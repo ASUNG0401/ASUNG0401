@@ -57,4 +57,5 @@ Always exploring new technologies and building practical projects through hands-
 ## Contact
 
 GitHub: [ASUNG0401](https://github.com/ASUNG0401)  
-Solved.ac: [dskim0722](https://solved.ac/dskim0722/)
+Solved.ac: [dskim0722](https://solved.ac/dskim0722/)        
+blog: [asung0401](https://velog.io/@asung0401/posts)
